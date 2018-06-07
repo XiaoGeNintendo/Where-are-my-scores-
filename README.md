@@ -47,6 +47,29 @@ you can find a full example in the folder songs/ExampleSong on Github
 
 then copy the assets into the folder. And if everything's ready, open the application and play!
 
+You can copy this empty json file and edit it yourself
+```java
+{
+    "dropTime":0,
+    "notes":[],
+    "bgPath":"", 
+    "notePath":"",
+    "catcherPath":"",
+    "songPath":"",
+    "l1":0,
+    "l100":0,
+    "l200":0,
+    "l300":0,
+    "l400":0,
+    "l500":0,
+    "l600":0,
+    "last":0,
+    "r":1,
+    "g":0,
+    "b":0,
+    "a":1 
+}
+```
 # Dealing with crashes
 Oops! My application crashes! What should I do?? 
 
