@@ -17,6 +17,10 @@ After one round, your mark and score will be shown to you and you'll be given yo
 
 The maximum score will be shown on the music choosing page
 
+# Autoplay mode
+During a gameplay, you can press "P" to toggle Autoplay mode. In Autoplay mode, the catcher will move and catch automatically. But sometimes it will fail on some extreme songs (the time between two notes is shorter than 0.1 second).
+**The autoplay mode will also count scores**
+
 # How to make beatmaps
 First open your songs folder and create a sub-folder. Then write a file called "beatmap.json" with the following format:
 ```java
